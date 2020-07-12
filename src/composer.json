@@ -1,5 +1,5 @@
 {
-    "name": "pmahalle/src",
+    "name": "pdmahalle/src",
     "description": "Simple message",
     "type": "library",
     "license": "MIT",
@@ -9,10 +9,5 @@
             "email": "pravinmahalle@outlook.com"
         }
     ],
-    "autoload": {
-        "psr-4": {
-            "FirstPackage\\": "src/"
-        }
-    },
     "require": {}
 }
